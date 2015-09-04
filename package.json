@@ -1,0 +1,20 @@
+{
+  "name": "autokern",
+  "version": "0.0.1",
+  "description": "Simple kerning options handled by javascript. Derivative and modified work from Takayuki Fukatsu.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allianceport/autokern.js.git"
+  },
+  "author": "Alliance Port, LLC (https://www.allianceport.jp)",
+  "contributors": [
+		"Alliance Port, LLC (https://github.com/allianceportorg)",
+		"Pierre-Henri Lavigne (https://github.com/getphuture)"
+  ],
+  "licenses": [
+    {
+        "type": "(CC BY 4.0)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+  ],
+}

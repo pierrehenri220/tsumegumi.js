@@ -1,0 +1,9 @@
+{
+  "packageManager": "github",
+  "name": "autokern",
+  "repo": "allianceport/autokern.js",
+  "files": {
+    "include": ["autokern.min.js"],
+    "exclude": ["package.json","update.json","README.md"]
+  }
+}

@@ -1,9 +1,9 @@
 {
   "packageManager": "github",
-  "name": "autokern",
-  "repo": "allianceport/autokern.js",
+  "name": "tsumegumi",
+  "repo": "allianceport/tsumegumi.js",
   "files": {
-    "include": ["autokern.min.js"],
+    "include": ["tsumegumi.min.js"],
     "exclude": ["package.json","update.json","README.md"]
   }
 }

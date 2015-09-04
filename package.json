@@ -1,10 +1,10 @@
 {
-  "name": "autokern",
+  "name": "tsumegumi",
   "version": "0.0.1",
-  "description": "Simple kerning options handled by javascript. Derivative and modified work from Takayuki Fukatsu.",
+  "description": "Simple font kerning via javascript. Derivative and modified work from Takayuki Fukatsu.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/allianceport/autokern.js.git"
+    "url": "https://github.com/allianceport/tsumegumi.js.git"
   },
   "author": "Alliance Port, LLC (https://www.allianceport.jp)",
   "contributors": [

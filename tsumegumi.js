@@ -1,12 +1,12 @@
 /*!
-  * autokern.js - Derivative and modified work from Takayuki Fukatsu
+  * tsumegumi.js - Derivative and modified work from Takayuki Fukatsu
   * CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
   */
 (function (name, context, definition) {
   if (typeof module != 'undefined' && module.exports) module.exports = definition()
   else if (typeof define == 'function' && define.amd) define(definition)
   else context[name] = definition()
-})('autokern', this, function () {
+})('tsumegumi', this, function () {
 
 
     function Kernify( options ) {

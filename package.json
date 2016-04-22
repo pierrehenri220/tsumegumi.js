@@ -6,10 +6,9 @@
     "type": "git",
     "url": "https://github.com/allianceport/tsumegumi.js.git"
   },
-  "author": "Alliance Port, LLC (https://www.allianceport.jp)",
+  "author": "Alliance Port Inc. (https://www.allianceport.jp)",
   "contributors": [
-		"Alliance Port, LLC (https://github.com/allianceportorg)",
-		"Pierre-Henri Lavigne (https://github.com/getphuture)"
+		"Alliance Port Inc. (https://www.allianceport.jp)"
   ],
   "licenses": [
     {
